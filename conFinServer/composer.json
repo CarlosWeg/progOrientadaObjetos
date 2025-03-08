@@ -1,0 +1,13 @@
+{
+    "name": "carlos/confinserver",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Config\\": "config/"
+        }
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
