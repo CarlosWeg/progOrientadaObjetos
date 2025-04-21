@@ -1,0 +1,9 @@
+{
+    "name": "carlos/sistema-produtos",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Core\\": "core/"
+        }
+    }
+}
